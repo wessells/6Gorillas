@@ -78,7 +78,7 @@ def main():
 
     #simple streamlit app to make things pretty and easy for non-coders
     st.title('Tenzinger Development Assessment')
-    st.write('An application to calculate how many travel compensation each employee should be getting depending on the vehicle they use, the distance they travel and the amount of days they work a week.')
+    st.write('An application to calculate how much travel compensation each employee should be getting depending on the vehicle they use, the distance they travel and the amount of days they work a week.')
 
     #sidebar with options for the month so that HR doesn't need to code
     with st.sidebar:
